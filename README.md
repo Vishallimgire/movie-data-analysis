@@ -1,2 +1,3 @@
-# movie-data-analysis
-cloud - GCP
+# movie-data-analysis data pipeline
+Technology stack
+
